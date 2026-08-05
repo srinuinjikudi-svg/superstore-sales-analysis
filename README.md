@@ -118,31 +118,6 @@ Developed an interactive dashboard containing:
 * Scatter analysis showed the relationship between Sales and Profit.
 * KPI cards provided a quick overview of business performance.
 
----
-
- Repository Structure
-
-
-Superstore-Data-Analysis/
-│
-├── SQL/
-│   └── superstore_queries.sql
-│
-├── Python/
-│   └── Superstore_Analysis.ipynb
-│
-├── Dataset/
-│   └── superstores_cleaned.csv
-│
-├── PowerBI/
-│   ├── Superstore_Dashboard.pbix
-│   └── dashboard.png
-│
-└── README.md
-
-
-
-
  Skills Demonstrated
 
 * SQL Querying
